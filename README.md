@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdYSChuang815
 - 👀 I’m interested in Bioinformatics, Crop Genomic
 - 🌱 I’m currently learning Crop Science Msc. (Plant breeding)
-- 📫 How to reach me edward.chuang@uni-hohenheim.de
+- 📫 How to reach me edwardchuang0815(at)gmail.com
 
 <!---
 EdYSChuang815/EdYSChuang815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
