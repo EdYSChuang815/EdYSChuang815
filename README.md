@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdYSChuang815
-- 👀 I’m interested in Bioinformatics, Crop Genomic
-- 🌱 I’m currently learning Crop Science Msc. (Plant breeding)
+- 👀 I’m interested in Bioinformatics, Genomics, and Quantitative Genetics.
+- 🌱 I’m currently a PhD student in Animal breeding and genetics
 - 📫 How to reach me edwardchuang0815(at)gmail.com
 
 <!---
